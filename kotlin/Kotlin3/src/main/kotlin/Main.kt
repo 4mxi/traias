@@ -1,5 +1,4 @@
-//nome: Marcus Antonio da Rocha Filho
-//ra: 2171392321029
+
 //problema: ler 3 opções:1 - Fatorial.2 - Quadradro de um número.3 - Volume de uma lata.4 – Sair do Programa
 fun main(){
     println("Digite a opção \n 1 - Fatorial\n 2 - Quadrado de um numero\n 3 - Volume de uma lata\n 4 - Sair do Programa")

@@ -1,5 +1,3 @@
-//Nome:Marcus Antonio da Rocha Filho
-//RA: 2171392321029
 //Problema: ler 3 valores inteiros, e apresentar os 3 numeros em ordem. Criei uma lista, as vars poderiam ser a mesma ( a de input), mas separei pra ficar bonito e pq tem poucas, depois ordenei com sort e printei o resultado.
 
 /*fun main (){
@@ -22,8 +20,6 @@
     println("Lista em ordem Crescente: ${lista}")
 }*/
 
-//Nome:Marcus Antonio da Rocha Filho
-//RA: 2171392321029
 //Problema: ler quatro numeros double, tirar média aritmetica, depois testar se os valores são validos com a condição >=7. primeiro cada var recebe um double, dps na var media tiramos a média que é comparada numa condicional simples(>=7)
 
 /*fun main(){
@@ -49,8 +45,6 @@
 
 }*/
 
-//Nome:Marcus Antonio da Rocha Filho
-//RA: 2171392321029
 //Problema:Faça um programa na Linguagem Kotlin que leia 3 números inteiros e mostre o maior deles. lista pra receber os inputs, dessa vez uma variavel pro tds os input. dps um for que checa cada posição com o maior numero recebido na var maiornumero. dava pra fazer com lista.maxOrNull() tbm mt mais simples.
 
 /*fun main(){
@@ -76,8 +70,6 @@
     println("O maior numero é: ${maiorNumero}")
 }*/
 
-//Nome:Marcus Antonio da Rocha Filho
-//RA: 2171392321029
 //Problema: Faça um programa na Linguagem Kotlin que efetue a leitura de cinco números inteiros e identificar o maior e o menor valor. mesma coisa do anterior, poderia usar o maxOrNull ou o reduce eu acho( pra achar o menor)
 
 /*fun main() {
@@ -118,8 +110,6 @@
 
 }*/
 
-//Nome:Marcus Antonio da Rocha Filho
-//RA: 2171392321029
 //Problema: Faça um programa na Linguagem Kotlin que efetue a leitura de um número inteiro e apresentar uma mensagem informando se o número é par ou ímpar. recebe o input e divide por 2, se tiver 0 de resto é par senão é impar cabo.
 
 /*fun main(){
@@ -133,8 +123,6 @@
     }
 }*/
 
-//Nome:Marcus Antonio da Rocha Filho
-//RA: 2171392321029
 //Problema: Faça um programa na Linguagem Kotlin que leia o código do item pedido, a quantidade e calcule o valor a ser pago por aquele lanche. fiz com uma lista de if else, poderia ser um switch case mas ai é preferencia, n usei list pq seria com map? n sei ainda.
 
 /*fun main(){
@@ -167,8 +155,6 @@
     }
 }*/
 
-//Nome:Marcus Antonio da Rocha Filho
-//RA: 2171392321029
 //Problema: Faça um programa na Linguagem Kotlin que que receba um número e mostre o fatorial desse número. le um numero, testa dps faz um loop de fatorial, n era necessario mas é legal usar o null.
 
 /*fun main(){
@@ -186,8 +172,6 @@
     }
 }*/
 
-//Nome:Marcus Antonio da Rocha Filho
-//RA: 2171392321029
 //Problema: Faça um programa na Linguagem Kotlin para apresentar o total da soma obtida dos cem primeiros números inteiros ( 1 + 2 + 3 + 4 + .... 98+ 99+ 100).
 
 /*fun main(){
@@ -203,8 +187,6 @@
 
 }*/
 
-//Nome:Marcus Antonio da Rocha Filho
-//RA: 2171392321029
 //Problema: Faça um programa na Linguagem Kotlin que apresente os valores de conversão de graus Celsius em Fahrenheit, de 10 em 10 graus, iniciando a contagem em 10 graus Celsius e finalizando em 100 graus Celsius.
 // loop usando in e step pra pular de 10 em 10 e dentro do loop printa uma vez cada vez printando C e a conversão em F
 
