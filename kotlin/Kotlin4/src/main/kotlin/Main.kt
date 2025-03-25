@@ -1,5 +1,4 @@
-//Nome:Marcus Antonio da Rocha Filho
-//RA:2171392321029
+
 //problema: Criar uma coleção na linguagem Kotlin com 10 elementos–	Inserir os elementos de 1 a 10 no vetor–	Após a inserção, somente após a inserção mostrar o vetor.Obs. Não efetuar a leitura de 10 elementos
 /*fun main() {
     val numeros = IntArray(10)
@@ -11,8 +10,7 @@
     println(numeros.joinToString (","))
 }*/
 
-//Nome:Marcus Antonio da Rocha Filho
-//RA:2171392321029
+
 //problema: Criar uma coleção “A” na linguagem Kotlin com 10 elementos–	Inserir os elementos de 1 a 10 na coleção–	Criar uma outra coleção B que conterá o elemento da coleção A multiplicado por 2–	Mostrar as duas coleçõesObs. Não efetuar a leitura de 10 elementos
 /*fun main(){
     val A = List(10) {it + 1}
@@ -23,8 +21,7 @@
     println("Coleção B: ${B}")
 }*/
 
-//Nome:Marcus Antonio da Rocha Filho
-//RA:2171392321029
+
 //problema:Fazer um procedimento para receber as notas da primeira e da segunda prova de cinco alunos. Armazenar as notas da primeira e da segunda prova em vetores distintos. Calcular e escrever a média de cada aluno
 /*fun main(){
     val prova1 = DoubleArray(5)
@@ -45,8 +42,6 @@
     }
 }*/
 
-//Nome:Marcus Antonio da Rocha Filho
-//RA:2171392321029
 //problema:Criar um vetor A do tipo inteiro de 5 elementos–	Solicitar os valores para o usuário e inserir no vetor A–	Criar um vetor B do tipo inteiro  –	Ler o vetor A e para cada elemento lido calcular o fatorial e gravar no B–	Após de todos os elementos do vetor A, mostrar os dois vetores
 fun main(){
     val A = IntArray(5)
